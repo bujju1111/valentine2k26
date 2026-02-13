@@ -5,7 +5,7 @@ import PersonalStory from './components/PersonalStory';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/valentine2k26">
       <Routes>
         <Route path="/" element={<Story />} />
         <Route path="/our-story" element={<PersonalStory />} />
