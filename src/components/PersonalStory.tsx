@@ -122,11 +122,9 @@ const PersonalStory = () => {
                         <p className="text-rose-200 leading-relaxed">antha pannikutty yum ok soliruchu. apo irunthu ipa varikum...</p>
                     </div>
                 </motion.section>
-
-                <p className="text-rose-200 leading-relaxed text-center">I Love You</p>
-                <p className="text-rose-200 leading-relaxed text-center">I Love You</p>
-                <p className="text-rose-200 leading-relaxed text-center">I Love You</p>
-
+                <p className="text-rose-200 leading-relaxed text-center">I Love You Papayee</p>
+                <p className="text-rose-200 leading-relaxed text-center">I Love You Bujji</p>
+                <p className="text-rose-200 leading-relaxed text-center">I Love You Mylu</p>
                 <motion.div
                     initial={{ opacity: 0 }}
                     whileInView={{ opacity: 1 }}
