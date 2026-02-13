@@ -191,8 +191,8 @@ const CelebrationScene = () => {
                 <Heart className="w-32 h-32 text-rose-500 fill-rose-500 drop-shadow-[0_0_30px_rgba(244,63,94,0.8)]" />
             </motion.div>
 
-            <h1 className="font-playfair text-5xl md:text-7xl text-gold-300 mt-8 mb-4 drop-shadow-xl">
-                Yay! I love you!
+            <h1 className="font-playfair text-5xl md:text-7xl text-gold-300 mt-8 mb-4 drop-shadow-xl text-center">
+                Yay! I love you! Bharathi❤️💙
             </h1>
             <p className="font-inter text-rose-200 text-lg max-w-lg mx-auto leading-relaxed">
                 You've made me the happiest person. This gift is just the beginning of our story together. <br />
