@@ -205,9 +205,9 @@ const CelebrationScene = () => {
                 transition={{ delay: 1 }}
                 className="mt-10 z-50 relative"
             >
-                {/* <Link to="/our-story" className="inline-block px-8 py-3 bg-gradient-to-r from-gold-500 to-gold-600 text-rose-950 font-playfair font-bold text-lg rounded-full shadow-[0_0_20px_rgba(234,179,8,0.4)] hover:scale-105 transition-transform">
+                <Link to="/our-story" className="inline-block px-8 py-3 bg-gradient-to-r from-gold-500 to-gold-600 text-rose-950 font-playfair font-bold text-lg rounded-full shadow-[0_0_20px_rgba(234,179,8,0.4)] hover:scale-105 transition-transform">
                     Read Our Story ✨
-                </Link> */}
+                </Link>
 
             </motion.div>
 
